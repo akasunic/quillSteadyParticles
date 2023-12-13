@@ -4,7 +4,7 @@
 
 **OVERVIEW**
 
-This is a mini-tool to test out automating simple particle effects for Quill. Putting it out there in case it’s useful as is, but also in case it inspires other ideas/further development. It’s based on Goro’s tutorial, the Steady Particles section (around 6:56): 
+This is a mini-tool to test out automating simple particle effects for Quill. Putting it out there in case it’s useful as is, but also in case it inspires other ideas/further development. It’s based on [Goro’s tutorial](https://www.youtube.com/watch?v=4mTxgEx-wU4), the Steady Particles section (around 6:56): 
 
 The idea: you draw one single particle drawing (e.g., one sphere) in Quill, and then using this tool, tweak all the other settings to create a steady particle effect like Goro demonstrates in his tutorial. In practice, it may not save that much time, especially for those who are quite familiar with the practice of creating steady particles effects. But it may be helpful to or fun for some users as is, and/or could spark other ideas for future development.
 
